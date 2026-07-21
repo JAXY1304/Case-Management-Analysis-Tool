@@ -190,15 +190,7 @@ Key Benefits:
 
 > Create, assign, prioritize, and track security incidents throughout the investigation lifecycle.
 
-![Case Management](screenshots/case-management.png)
-
----
-
-## 📝 Task Management
-
-> Assign investigation tasks to analysts and monitor task completion.
-
-![Task Management](screenshots/task-management.png)
+![Case Management](screenshots/create-case.png)
 
 ---
 
@@ -214,7 +206,7 @@ Key Benefits:
 
 > Execute automated threat intelligence analyzers directly from TheHive.
 
-![Cortex Analyzer](screenshots/cortex-analyzer.png)
+![Cortex Dashboard](screenshots/cortex-dashboard.png)
 
 ---
 
@@ -222,7 +214,7 @@ Key Benefits:
 
 > IOC enrichment using VirusTotal, MalwareBazaar and integrated analyzers.
 
-![Threat Intelligence](screenshots/threat-intelligence.png)
+![Analyzer Results](screenshots/analyzer-results.png)
 
 ---
 
@@ -231,22 +223,6 @@ Key Benefits:
 > Docker containers powering the complete SOC infrastructure.
 
 ![Docker Containers](screenshots/docker-containers.png)
-
----
-
-## 📊 Elasticsearch Integration
-
-> Elasticsearch backend used for indexing, searching, and storing investigation data.
-
-![Elasticsearch](screenshots/elasticsearch.png)
-
----
-
-## 📈 Case Timeline
-
-> Complete investigation timeline showing analyst activities and case progression.
-
-![Case Timeline](screenshots/case-timeline.png)
 
 ---
 
